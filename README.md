@@ -29,7 +29,7 @@ The underlying assumption is that altered areas will compress differently than t
 The resulting error levels are then enhanced to make the differences more visible.
 
 ### Noise Analysis
-Demo is below:
+Demo is below:  
 ![Noise Analysis Demo](media/noise_demo.gif)
 
 **Math and Approach:**
